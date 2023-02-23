@@ -1,0 +1,61 @@
+.color{
+    color: rgb(255, 255, 255);
+}
+
+.titulo-redes{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(0, 143, 245);
+}
+
+#fondo{
+    background-color: #dbe4f8;
+}
+
+
+.texto-blog{
+    font-size: 25px;
+    text-align: left;
+    color: rgb(1, 105, 169);
+}
+
+.texto-mapa{
+    font-size: 15px;
+    text-align: justify;
+    color: rgb(36, 153, 226);
+}
+
+.centrar-texto {
+    text-align: center;
+}
+.titulo-redes{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tamaño-titulo{
+    font-size: 30px;
+}
+
+.no-margin {
+    margin: 0;
+    font-family: Arial, Helvetica, Sans-serif;
+    
+    font-size: 20px;
+    text-align: justify;
+}
+.centrar-imagen{
+    justify-content: center;
+}
+
+#imagen_banner{
+    background-image: url("../images/constructora1.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 300px; /* You must set a specified height */
+     /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+
